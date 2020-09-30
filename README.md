@@ -2,6 +2,6 @@
 Simple Webpage for Generating Random Secure Passwords using HTML, CSS, Bootstrap and JavaScript.
 
 
-Here is Screenshot of the page.
+Screenshot Below - 
 ![Random Password Generator](/images/SS.png)
 
